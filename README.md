@@ -1,3 +1,3 @@
-# Storefy
+# Storefy Server
 
-A Real, functioning and beautiful E-commerce store where you can make orders and pay online
+Storefy E-commerce store server
